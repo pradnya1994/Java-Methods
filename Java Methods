@@ -1,0 +1,26 @@
+Method: it is block/identifier, has number of instructions/statements which can perform a 
+        specific task/activity.
+        
+Syntax of the method:
+====================
+
+for example, i am taking main() method. 
+
+public static void main(String[] args) 
+{
+	System.out.println("Example1 class main() method");
+} 
+
+access modifier non access modifier return-type method-name(parameters)//method head/signature
+{
+
+	//method body/implementation
+
+}
+
+
+public: access modifier, other access modifiers are default(no keyword), private and protected.
+
+static: non access modifier, other non access modifiers are final, abstract, synchronized..etc.
+
+
